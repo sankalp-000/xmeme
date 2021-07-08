@@ -11,11 +11,11 @@ it shows latest uploaded memes . (shown below in the figure).
 
 
 
-![demo](https://lh6.googleusercontent.com/rms6Yua-gPJatXuuRXQgMm-n3FqhUdNkUqV8PvD-XHps99qY_neetx646U3el4k3_hGKIAfbN6Ts5_iTXk_Zyw0mx9oq9Xkb85AloeBJCL8N9QZxIQ=w1280) 
+![demo](https://drive.google.com/file/d/1xIk43w9YglPDawYqZ9fQCfN5zZLGS1u2/view?usp=sharing) 
 
 there is a form to submit your memes(as shown in the figure below).
 
-![demo](https://lh3.googleusercontent.com/XMjIaGDmOj8IurIWaqK37qo6md3oxNrw9WhqIpd9U5E-HXu9084rG5BSv3EmWnr3AlL9uBDIfEEaZuuXKSJMnRuMOOv4O8trbWYuQrJvYJxOAoy2qZo=w1280)
+![demo](https://drive.google.com/file/d/1j9tft6l5UWOl6LLW550cjgUgrt1mwPG0/view?usp=sharing)
 
 ### **Technologies Used**
 ---
